@@ -9,7 +9,7 @@ import sequelize from './libs/database/index.js';
 
 dotenv.config();
 
-// associates other models with each other for Many to Many, Many to One relationships
+//associates other models with each other for Many to Many, Many to One relationships
 // Object.values(models).forEach((model) => {
 //     if (model.associate) {
 //       model.associate(models);
