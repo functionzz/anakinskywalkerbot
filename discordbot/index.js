@@ -16,7 +16,7 @@ dotenv.config();
 //     }
 //   });
 
-
+//test
 // Create a new client instance for the discord bot
 const client = new Client({
     intents: [GatewayIntentBits.Guilds,
